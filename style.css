@@ -1,3 +1,32 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+body {
+    background-image:url('https://images.everyplate.com/c_fill,f_auto,fl_lossy,h_700,q_auto,w_1400/everyplate_s3/image/sweet-spicy-pork-rice-bowls-8ccd6ab3.jpg');
+    background-size: 800px;
+    margin: 20px;
+    background-repeat: no-repeat;
+}
+
+.background-image-main img {
+
+}
+
+#the-background-image {
+}
+
+
+
+.left-card {
+    background-color: red;
+    margin-top: 400px;
+    /* padding: */
+}
+
+.left-card h1 {
+    color: #FFF;
+    text-align: left;
+    padding:;
+    text-transform: uppercase;
+}
