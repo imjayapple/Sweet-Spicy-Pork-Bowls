@@ -21,11 +21,12 @@ body {
 .left-card {
     background-color: red;
     margin-top: 400px;
+    color: #FFF;
     /* padding: */
 }
 
 .left-card h1 {
-    color: #FFF;
+
     text-align: left;
     padding:;
     text-transform: uppercase;
