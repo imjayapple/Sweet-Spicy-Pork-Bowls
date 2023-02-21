@@ -9,25 +9,25 @@ body {
     background-repeat: no-repeat;
 }
 
-.background-image-main img {
 
-}
-
-#the-background-image {
-}
-
-
-
-.left-card {
+#left-card {
+    display: flex;
     background-color: red;
     margin-top: 400px;
     color: #FFF;
     /* padding: */
 }
 
-.left-card h1 {
+#left-card .recipe-intro-title, #left-card .recipe-intro-subtitle, #left-card .recipe-intro-description {
+    display: flex;
+    flex-direction: column;
+}
 
+#left-card h1 {
     text-align: left;
-    padding:;
     text-transform: uppercase;
+}
+
+.tools li, .pantry-items li {
+    font-size: 13px;
 }
