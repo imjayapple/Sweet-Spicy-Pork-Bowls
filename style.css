@@ -39,3 +39,7 @@ body {
 h4 {
     text-align:j center;
 }
+
+#left-card {
+    grid: 0%;
+}
