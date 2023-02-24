@@ -21,15 +21,24 @@ body {
 #left-card .recipe-intro-left-text-bundle {
     display: flex;
     flex-direction: column;
+    max-width: 425px;
 }
 
+.recipe-intro-left-text-bundle {
+    margin-left: 20px;
+}
 
 #left-card h1 {
     text-transform: uppercase;
 }
 
+.tools-and-pantry {
+    margin-left: 20px;
+}
+
 .tools li, .pantry-items li {
     font-size: 13px;
+    margin-left: -28px;
 }
 
 .tools-and-pantry li {
@@ -38,8 +47,4 @@ body {
 
 h4 {
     text-align:j center;
-}
-
-#left-card {
-    grid: 0%;
 }
